@@ -1,9 +1,15 @@
-<h1 align="center">Hello 👋, I'm Laiba Naheed</h1>
-<h3 align="center">A Passionate Computer Science Student 👩🏻‍💻</h3>
+<h1 align="center">✨ Hi there, I’m Laiba Naheed 💜</h1>
+<h3 align="center">🌸 A Curious & Creative Computer Science Student 👩🏻‍💻</h3>
+
+<p align="center">
+  💡 Always learning, building & experimenting <br/>
+  ☕ Powered by coffee, code, and creativity <br/>
+  🌍 Exploring the intersection of design & technology
+</p>
 
 ---
 
-### 💻 Languages and Tools
+### 💻 Tech Playground
 
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
@@ -22,10 +28,14 @@
 
 ---
 
-### 📫 Connect with Me
+### 🌷 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/laiba-naheed-788312294" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Laiba Naheed on LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+---
+
+<p align="center">✨ “Code with purpose, design with passion, and dream without limits.” ✨</p>
