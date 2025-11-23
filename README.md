@@ -1,6 +1,6 @@
 <!-- 🌸 LAVENDER THEME WITH CUTE BORDER BOXES -->
 
-<h1 align="center">💜 Hey, I’m <strong>Laiba Naheed</strong> — Welcome to My GitHub Space ✨</h1>
+<h1 align="center">Hey, I’m <strong>Laiba Naheed</strong> — Welcome to My GitHub Space ✨</h1>
 <h3 align="center">Creative Video Editor • Aesthetic Designer • Front-End Web Developer</h3>
 
 <br/>
@@ -16,7 +16,7 @@
 ">
   <p align="center">
     I blend <strong>creativity, storytelling, and code</strong> to build things that feel soft, aesthetic, and meaningful.  
-    Whether it's a cinematic video, a UI design, or a responsive website — I love craft with passion and purpose. 🌙💜
+    Whether it's a cinematic video, a UI design, or a responsive website — I love craft with passion and purpose.💜
   </p>
 </div>
 
@@ -54,15 +54,7 @@
 
   <p align="center">
     Canva • Figma • Illustrator  
-    Soft aesthetics • Pastel palettes • Clean & minimal UI/Graphics 🌸
-  </p>
-
-  <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45"/>
-    &nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
-    &nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45"/>
+    Soft aesthetics • Pastel palettes • Clean & minimal UI/Graphics
   </p>
 </div>
 
@@ -75,7 +67,7 @@
   box-shadow: 0 0 12px rgba(190, 140, 255, 0.25);
   margin-bottom: 25px;
 ">
-  <h2 align="center">💻 Front-End Development</h2>
+  <h2 align="center">Front-End Development</h2>
 
   <p align="center">
     Clean layouts • Soft color themes • Responsive websites • Beginner-friendly JS  
@@ -91,7 +83,7 @@
   box-shadow: 0 0 12px rgba(180, 110, 255, 0.3);
   margin-bottom: 25px;
 ">
-  <h2 align="center">🌷 Let’s Connect</h2>
+  <h2 align="center">Let’s Connect</h2>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/laiba-naheed-788312294">
@@ -100,10 +92,10 @@
   </p>
 
   <p align="center">
-    💌 Always open for collabs, design work, and creative projects!
+    Always open for collabs, design work, and creative projects!
   </p>
 </div>
 
 <h3 align="center" style="color:#b57bff;">
-  🌸 “Create softly. Code boldly. Dream endlessly.” 🌸
+  “Create softly. Code boldly. Dream endlessly.” 
 </h3>
