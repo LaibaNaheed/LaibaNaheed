@@ -1,41 +1,109 @@
-<h1 align="center">✨ Hi there, I’m Laiba Naheed 💜</h1>
-<h3 align="center">🌸 A Curious & Creative Computer Science Student 👩🏻‍💻</h3>
+<!-- 🌸 LAVENDER THEME WITH CUTE BORDER BOXES -->
 
-<p align="center">
-  💡 Always learning, building & experimenting <br/>
-  ☕ Powered by coffee, code, and creativity <br/>
-  🌍 Exploring the intersection of design & technology
-</p>
+<h1 align="center">💜 Hey, I’m <strong>Laiba Naheed</strong> — Welcome to My Lavender Space ✨</h1>
+<h3 align="center">Creative Video Editor • Aesthetic Designer • Front-End Web Developer</h3>
 
----
+<br/>
 
-### 💻 Tech Playground
+<!-- 🟣 BOX 1 -->
+<div style="
+  border: 3px solid #d8b4fe;
+  border-radius: 20px;
+  padding: 20px;
+  background: #f3e8ff;
+  box-shadow: 0 0 12px rgba(170, 120, 255, 0.3);
+  margin-bottom: 25px;
+">
+  <p align="center">
+    I blend <strong>creativity, storytelling, and code</strong> to build things that feel soft, aesthetic, and meaningful.  
+    Whether it's a cinematic video, a UI design, or a responsive website — I love craft with passion and purpose. 🌙💜
+  </p>
+</div>
 
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/></a>
-</p>
+<!-- 🟣 BOX 2 -->
+<div style="
+  border: 3px solid #e9d5ff;
+  border-radius: 20px;
+  padding: 25px;
+  background: #faf5ff;
+  box-shadow: 0 0 14px rgba(200, 140, 255, 0.3);
+  margin-bottom: 25px;
+">
+  <h2 align="center">🎥 Video Editing Magic</h2>
+  <p align="center">Soft transitions • Aesthetic cuts • Cinematic visuals • Clean storytelling</p>
 
----
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/matthew-turner/media-icons/master/capcut.svg" width="55"/>
+    &nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Filmora_logo.png" width="65"/>
+    &nbsp;&nbsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-cc.svg" width="55"/>
+  </p>
+</div>
 
-### 🌷 Connect with Me  
+<!-- 🟣 BOX 3 -->
+<div style="
+  border: 3px solid #d8b4fe;
+  border-radius: 20px;
+  padding: 25px;
+  background: #f8f5ff;
+  box-shadow: 0 0 10px rgba(150, 100, 255, 0.3);
+  margin-bottom: 25px;
+">
+  <h2 align="center">🎨 Designing in Lavender Tones</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/laiba-naheed-788312294" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Laiba Naheed on LinkedIn" height="30" width="40" />
-  </a>
-</p>
+  <p align="center">
+    Canva • Figma • Illustrator  
+    Soft aesthetics • Pastel palettes • Clean & minimal UI/Graphics 🌸
+  </p>
 
----
+  <p align="center">
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45"/>
+    &nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
+    &nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45"/>
+  </p>
+</div>
 
-<p align="center">✨ “Code with purpose, design with passion, and dream without limits.” ✨</p>
+<!-- 🟣 BOX 4 -->
+<div style="
+  border: 3px solid #e9d5ff;
+  border-radius: 20px;
+  padding: 25px;
+  background: #f3e8ff;
+  box-shadow: 0 0 12px rgba(190, 140, 255, 0.25);
+  margin-bottom: 25px;
+">
+  <h2 align="center">💻 Front-End Development</h2>
+
+  <p align="center">
+    Clean layouts • Soft color themes • Responsive websites • Beginner-friendly JS  
+  </p>
+</div>
+
+<!-- 🟣 BOX 5 -->
+<div style="
+  border: 3px solid #d8b4fe;
+  border-radius: 20px;
+  padding: 25px;
+  background: #faf5ff;
+  box-shadow: 0 0 12px rgba(180, 110, 255, 0.3);
+  margin-bottom: 25px;
+">
+  <h2 align="center">🌷 Let’s Connect</h2>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/laiba-naheed-788312294">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
+    </a>
+  </p>
+
+  <p align="center">
+    💌 Always open for collabs, design work, and creative projects!
+  </p>
+</div>
+
+<h3 align="center" style="color:#b57bff;">
+  🌸 “Create softly. Code boldly. Dream endlessly.” 🌸
+</h3>
